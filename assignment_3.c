@@ -16,7 +16,7 @@
 bool turnLeader = false;
 node_id idNode = 0;
 int state = 0;
-char* ipAddr = "13.95.210.235";
+char* ipAddr = "40.68.246.18";
 int fdSocket = 0;
 FILE *fLog; // Log file
 int voteCount = 0;
